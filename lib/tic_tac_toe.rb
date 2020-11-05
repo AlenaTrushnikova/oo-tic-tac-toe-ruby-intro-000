@@ -58,7 +58,10 @@ class TicTacToe
       end
       display_board
     end  
-
+    
+    def won?
+      
+    end
 
 
 end

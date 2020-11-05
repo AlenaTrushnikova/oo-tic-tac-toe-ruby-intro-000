@@ -47,7 +47,7 @@ class TicTacToe
     end
     
     def turn
-      
+    end  
 
 #       ask for input
 # get input
@@ -59,6 +59,5 @@ class TicTacToe
 #   restart turn
 # end
 #     end
-
 
 end

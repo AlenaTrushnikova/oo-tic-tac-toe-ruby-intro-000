@@ -48,7 +48,8 @@ class TicTacToe
     
     def turn
       put "Please enter a number (1-9):"
-      user_input.chomp
+      user_input = gets.strip
+      
     end  
 
 #       ask for input

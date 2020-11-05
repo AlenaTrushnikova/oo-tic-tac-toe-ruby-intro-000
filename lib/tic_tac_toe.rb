@@ -48,6 +48,17 @@ class TicTacToe
     
     def turn
       
-    end
-    
+
+#       ask for input
+# get input
+# translate input into index
+# if index is valid
+#   make the move for index
+#   show the board
+# else
+#   restart turn
+# end
+#     end
+
+
 end

@@ -15,6 +15,6 @@ class TicTacToe
     ]
     
     def display_board
-      print initialize(board = nil)
+      puts 
     end
 end

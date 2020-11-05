@@ -68,7 +68,7 @@ class TicTacToe
     end
     
     def full?
-      @board[index]
+      @board.all?{|space| space != " " }
     end
 
 

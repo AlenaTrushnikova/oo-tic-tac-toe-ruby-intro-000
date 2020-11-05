@@ -42,7 +42,7 @@ class TicTacToe
       @board.count{|space| space != " "}
     end
     
-    def urrent_player
+    def current_player
       turn_count.even? ? "X" : "O"
     end
     

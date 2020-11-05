@@ -54,7 +54,7 @@ class TicTacToe
         token = current_player
         move(index, token)
         else
-          
+          turn
     end  
 
 #       ask for input

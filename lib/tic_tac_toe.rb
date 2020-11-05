@@ -71,7 +71,8 @@ class TicTacToe
       @board.all?{|space| space != " " }
     end
     
-    def 
+    def draw?
+    end
 
 
 end

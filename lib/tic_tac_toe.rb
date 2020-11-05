@@ -53,19 +53,12 @@ class TicTacToe
       if valid_move?(index)
         token = current_player
         move(index, token)
-        else
-          turn
+      else
+        turn
+      end
+      display_board
     end  
 
-#       ask for input
-# get input
-# translate input into index
-# if index is valid
-#   make the move for index
-#   show the board
-# else
-#   restart turn
-# end
-#     end
+
 
 end
